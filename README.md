@@ -6,8 +6,6 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carvalho-Lucas&layout=compact)](https://github.com/Carvalho-Lucas/github-readme-stats)
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
@@ -18,3 +16,15 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carvalho-Lucas&layout=compact)](https://github.com/Carvalho-Lucas/github-readme-stats)
+
+### Aplicações Recentes
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Carvalho-Lucas&repo=AL.news)](https://github.com/Carvalho-Lucas/AL.news)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Carvalho-Lucas&repo=L-A-Money)](https://github.com/Carvalho-Lucas/L-A-Money)
+
+
+
