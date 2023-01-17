@@ -1,9 +1,10 @@
 ## Olá! Eu sou o Lucas Carvalho 🖐️
 ### Engenheiro de Software - Puc Minas
 
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaodecarvalho/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-carvalho-21011997/)
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carvalho-Lucas&layout=compact)](https://github.com/Carvalho-Lucas/github-readme-stats)
 
