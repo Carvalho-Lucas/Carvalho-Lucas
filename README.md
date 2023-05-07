@@ -24,7 +24,7 @@
 ### Aplicações Recentes
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Carvalho-Lucas&repo=AL.news)](https://github.com/Carvalho-Lucas/AL.news)
-[![Readme Card](https://github.com/Carvalho-Lucas/RkNotes/blob/main/README.md)](https://github.com/Carvalho-Lucas/RkNotes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Carvalho-Lucas&repo=RkNotes)](https://github.com/Carvalho-Lucas/RkNotes)
 
 
 
